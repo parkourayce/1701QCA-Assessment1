@@ -6,7 +6,7 @@
 
 *For a selection of 5 inventor kit experiments that you choose, fill out the following sections.
 
-### Say "Hello to the BBC micro:bit ###
+### Say "Hello" to the BBC micro:bit ###
 
 (Replace this with the experiment name)
 
@@ -40,7 +40,7 @@ In this experiment, something new to me was or something I learned was (insert s
 
 This experiment could be the basis of a real world application such as (insert something here).
 
-### Experiment name ###
+### Dimming an LED using a potentiometer ###
 
 (Replace this with the experiment name)
 
@@ -57,7 +57,7 @@ In this experiment, something new to me was or something I learned was (insert s
 
 This experiment could be the basis of a real world application such as (insert something here).
 
-### Experiment name ###
+### Using a transistor to drive a motor ###
 
 (Replace this with the experiment name)
 
@@ -74,7 +74,7 @@ In this experiment, something new to me was or something I learned was (insert s
 
 This experiment could be the basis of a real world application such as (insert something here).
 
-### Experiment name ###
+### Using the accelerometer to control motor speed ###
 
 (Replace this with the experiment name)
 
