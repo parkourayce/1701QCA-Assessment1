@@ -6,7 +6,7 @@
 
 *For a selection of 5 inventor kit experiments that you choose, fill out the following sections.
 
-### Experiment name ###
+### Say "Hello to the BBC micro:bit ###
 
 (Replace this with the experiment name)
 
@@ -23,7 +23,7 @@ In this experiment, something new to me was or something I learned was (insert s
 
 This experiment could be the basis of a real world application such as (insert something here).
 
-### Experiment name ###
+### Using a light sensor and analog inputs ###
 
 (Replace this with the experiment name)
 
