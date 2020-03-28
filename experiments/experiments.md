@@ -8,12 +8,12 @@
 
 ### Say "Hello" to the BBC micro:bit ###
 
-(Replace this with the experiment name)
+
 
 #### Photo of completed project ####
 *In the code below, replace `missingimage.png` with the name of the image, which should be in the `kitexperiments` folder.*
 
-![Image](Experiment 1.jpg)
+![Image](Experiment1.jpg)
 
 (Insert a caption here)
 
@@ -25,7 +25,7 @@ This experiment could be the basis of a real world application such as (insert s
 
 ### Using a light sensor and analog inputs ###
 
-(Replace this with the experiment name)
+
 
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
@@ -59,7 +59,6 @@ This experiment could be the basis of a real world application such as (insert s
 
 ### Using a transistor to drive a motor ###
 
-(Replace this with the experiment name)
 
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
@@ -76,7 +75,6 @@ This experiment could be the basis of a real world application such as (insert s
 
 ### Using the accelerometer to control motor speed ###
 
-(Replace this with the experiment name)
 
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
