@@ -10,7 +10,7 @@
 
 
 
-#### Photo of completed project ####
+
 
 
 ![Image](experiment1.JPG)
@@ -27,7 +27,7 @@ This experiment could be the basis of a real world application such as (insert s
 
 
 
-#### Photo of completed project ####
+
 
 ![Image](experiment2.JPG)
 
@@ -43,7 +43,6 @@ This experiment could be the basis of a real world application such as (insert s
 
 (Replace this with the experiment name)
 
-#### Photo of completed project ####
 
 ![Image](experiment3.JPG)
 
@@ -58,7 +57,6 @@ This experiment could be the basis of a real world application such as (insert s
 ### Using a transistor to drive a motor ###
 
 
-#### Photo of completed project ####
 ![Image](experiment4.JPG)
 
 (Insert a caption here)
@@ -72,7 +70,6 @@ This experiment could be the basis of a real world application such as (insert s
 ### Using the accelerometer to control motor speed ###
 
 
-#### Photo of completed project ####
 
 ![Image](experiment5.JPG)
 
