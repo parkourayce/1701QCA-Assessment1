@@ -10,7 +10,7 @@
 
 In this experiment, something new to me was or something I learned what a microbit was, and all the capabilities and potential that the small little device can have. It is very interesting, I learnt that LED's on the screen can change, and that the microbit can move motors and make sounds aswell.  
 
-This experiment could be the basis of a real world application such as a billboard where pixels light up on the screen. These pixels might only light up when the car triggers a sensor, that way the billboard isn't wasting unnecessary power. They could have cameras on the side of the road that looked into the car to create different advertisements on the billboard based on who is travelling. If the camera noticed a family, they could advertise a family meal at a stop nearby. However, if it is just one person in the vechile, the billboard could create an advertisement of just a singular item. 
+This experiment could be the basis of a real world application such as a billboard where pixels light up on the screen. These pixels might only light up when the car triggers a sensor, that way the billboard isn't wasting unnecessary power. They could have cameras on the side of the road that looked into the car to create different advertisements on the billboard based on who is travelling. If the camera noticed a family, they could advertise a family meal at a stop nearby. However, if it is just one person in the vechile, the billboard could create an advertisement of just a singular item. For these experiments I decided to use photos of the code rather then a photo of the microbit, as it's a bit hard to tell in one photo what all the switches and motors are doing. With the code, if you have worked on microbits before, gives a larger understanding to what the result will be. 
 
 ### Using a light sensor and analog inputs ###
 
@@ -46,9 +46,8 @@ This experiment could be the basis of a real world application such as car headl
 (Code for experiment four)
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
-
-This experiment could be the basis of a real world application such as (insert something here).
+In this experiment, I learnt that you can use certain components, such as transistors to allow a higher output of power 
+This experiment could be the basis of a real world application such a such as a water turbine, providing electircity to the turbine, however not a large amount that could be dangerous to the circut, or people that need to work or service the circuit.
 
 ### Using the accelerometer to control motor speed ###
 
@@ -59,7 +58,7 @@ This experiment could be the basis of a real world application such as (insert s
 (Code for experiment five)
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, something new to me was that motors could change their speed, depending on how fast the microbit was moving. I thought it was interesting how the little bit of equipment from the microbit has so much potential to do different things.
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment could be the basis of a real world application such as modern day smartphone cameras. The goal of lots of companies is to get the highest screen to body ratio. Now smartphones are using motorised cameras to pop out of the screen, that way adding extra screen real estate to the device. If the accelerometer detects that the device is falling, from someones hand, it can control the motor speed and make the motor go really fast so that the camera is not protruding by the time it hits the ground. Therefore allowing the smartphone to fall without the camera getting damaged. 
 
