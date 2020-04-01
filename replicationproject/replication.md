@@ -47,6 +47,7 @@ This project is what I based my replication project off of. It is very similar t
 
 ### Related project 5 ###
 (Songs of inanimate objects)
+
 (http://www.johnrobertferguson.com/songs-of-inanimate-objects/)
 ![Image](n5.JPG)
 
@@ -80,17 +81,17 @@ This project is related to mine as they were inanimate objects which when touche
 
 *What I thought before: Before this reading, because I had made a clothing company I knew about all the design, prototype and testing process the occurs. This infromation from this reading stated that designers test out the products in public and gage peoples natural reactions to see what they think about it. I knew that designers often done this as it is a useful way of testing the prodct.*
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+*What I learned: What I learnt is how important coding is for those who are developing interactive media. This code doesn't have to be advanced, but it can be basic coding, even copied or imported from other sources so that the products can start working.I learnt there are endless possabilities to different solutions and different problems that we occur. I learnt that cameras were an effective method to tracking where the customer looks around the shop, and which days customers are most likely to come into the store. 
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
+*What I would like to know more about: I would love to learn about customer habits and psychology. If a customer walks into a store, I wonder if there is a certain way to get them to follow a certain path or go to a particular area. I already know IKEA does this, as once you're in the store, you need to walk through the biz maze before you can get out.*
 
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+*How this relates to the project I am working on: This doesn't realate closely to my project, however both the wearable interactive technology and the fruit keyboard are both made from IFTTT code. If this happens then this happens.*
 
 
 ## Interaction flowchart ##
 *Draw a flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
 
-![Image](missingimage.png)
+![Image](interactive.JPEG)
 
 ## Process documentation
 
