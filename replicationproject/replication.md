@@ -14,7 +14,7 @@
 
 (https://makecode.microbit.org/projects/guitar)
 
-![Image](missingimage.png)
+![Image](n1.jpg)
 
 This project is related to mine because it is an object which creates sound. However, instead of using touch to complete the circuit and create a sound, this has a light sensor. This light sensor plays different notes, depending on the level of the light in the room. It would be very difficult to learn how to play, and I don't think it would be very practical as you would need to adjust depending on what type of lighting you were playing in. 
 
@@ -23,7 +23,7 @@ This project is related to mine because it is an object which creates sound. How
 
 (https://www.bigmessowires.com/2016/08/19/fruit-electronics-piano/)
 
-![Image](missingimage.png)
+![Image](n2.jpg)
 
 This project is related to mine as it fruit which plays sound. However instead of using crocadile clips, this one is connected through wires to a breadboard. This allows for each peice of fruit to create different sounds. I was considering replicating this project, however changed my mind when I saw that I only had two peices of fruit. It is a very cool concept that the different peices can create different sounds. I would like to see someone play a song using the keyboard. Or a whole band. 
 
@@ -32,7 +32,7 @@ This project is related to mine as it fruit which plays sound. However instead o
 
 (http://www.seeedstudio.com/blog/2016/09/19/respeaker-tomato-piano-with-arduino/)
 
-![Image](missingimage.png)
+![Image](n3.jpg)
 
 This project is very similar to the previous one, however it is using tomatoes rather then all different fruits. They are using a different tool instead of a microbit, which allows for more alligator clips to be placed onto different spots. This gives potential to create more notes rather then the one tone. 
 
@@ -41,14 +41,14 @@ This project is very similar to the previous one, however it is using tomatoes r
 
 (https://osoyoo.com/2018/09/20/microbit-basic-tutorial-9-banana-keyboard/)
 
-![Image](missingimage.png)
+![Image](n4.jpg)
 
 This project is what I based my replication project off of. It is very similar to mine, however to connect the two fruits they used crocadile clips. Due to my lack of resources, I only had three clips and had to use a wire to connect the clips. This is similar to mine in the fact that when touched, you complete the circuit and the tonne plays. It plays a different sound.
 
 ### Related project 5 ###
 (Songs of inanimate objects)
 (http://www.johnrobertferguson.com/songs-of-inanimate-objects/)
-![Image](missingimage.png)
+![Image](n5.jpg)
 
 This project is related to mine as they were inanimate objects which when touched, outbursed soundwaves for you to hear. This project served as inspiration to mine. I found this inspiring as cool sounds can be made from objects that seem inanimate. As I child I remember going around and knocking or tapping different objects to see what sounds they make. If I were able to play with these objects as a kid I would of thought it was so increadible. 
 
