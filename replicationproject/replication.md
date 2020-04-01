@@ -2,35 +2,67 @@
 
 *Fill out the following workbook with information relevant to your project.*
 
-*Markdown reference:* [https://guides.github.com/features/mastering-markdown/](http://guides.github.com/features/mastering-markdown/)
 
-## Replication project choice ##
-(Insert the name of the project you chose to replicate.)
+## Banana Keyboard Replication Project ##
+
 
 ## Related projects ##
 *Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the* `replicationproject` *folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing, updating the number* `1` *in the subtitle for each.*
 
 ### Related project 1 ###
-(Insert name of project)
+(Microbit Guitar)
 
-(Insert URL to project)
+(https://makecode.microbit.org/projects/guitar)
 
 ![Image](missingimage.png)
 
-This project is related to mine because (insert reasons here).
+This project is related to mine because it is an object which creates sound. However, instead of using touch to complete the circuit and create a sound, this has a light sensor. This light sensor plays different notes, depending on the level of the light in the room. It would be very difficult to learn how to play, and I don't think it would be very practical as you would need to adjust depending on what type of lighting you were playing in. 
 
-## Reading reflections ##
-*Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
+### Related project 2 ###
+(Arduino Fruit Piano)
+
+(https://www.bigmessowires.com/2016/08/19/fruit-electronics-piano/)
+
+![Image](missingimage.png)
+
+This project is related to mine as it fruit which plays sound. However instead of using crocadile clips, this one is connected through wires to a breadboard. This allows for each peice of fruit to create different sounds. I was considering replicating this project, however changed my mind when I saw that I only had two peices of fruit. It is a very cool concept that the different peices can create different sounds. I would like to see someone play a song using the keyboard. Or a whole band. 
+
+### Related project 3 ###
+(ReSpeaker Tomato Piano with Arduino)
+
+(http://www.seeedstudio.com/blog/2016/09/19/respeaker-tomato-piano-with-arduino/)
+
+![Image](missingimage.png)
+
+This project is very similar to the previous one, however it is using tomatoes rather then all different fruits. They are using a different tool instead of a microbit, which allows for more alligator clips to be placed onto different spots. This gives potential to create more notes rather then the one tone. 
+
+### Related project 4 ###
+(Banana Keyboard)
+
+(https://osoyoo.com/2018/09/20/microbit-basic-tutorial-9-banana-keyboard/)
+
+![Image](missingimage.png)
+
+This project is what I based my replication project off of. It is very similar to mine, however to connect the two fruits they used crocadile clips. Due to my lack of resources, I only had three clips and had to use a wire to connect the clips. This is similar to mine in the fact that when touched, you complete the circuit and the tonne plays. It plays a different sound.
+
+### Related project 5 ###
+(Songs of inanimate objects)
+(http://www.johnrobertferguson.com/songs-of-inanimate-objects/)
+![Image](missingimage.png)
+
+This project is related to mine as they were inanimate objects which when touched, outbursed soundwaves for you to hear. This project served as inspiration to mine. I found this inspiring as cool sounds can be made from objects that seem inanimate. As I child I remember going around and knocking or tapping different objects to see what sounds they make. If I were able to play with these objects as a kid I would of thought it was so increadible. 
+
 
 *For each of the assigned readings, answer the questions below.*
 
 ### Reading: Don Norman, The Design of Everyday Things, Chapter 1 (The Psychopathology of Everyday Things) ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+*What I thought before: Before reading chapter one of 'The Design of Everyday Things' I had not really every thought about the experience of the user. I have always thought of the outcome that is recieved. I had not known what affordances or signifiers were before reading this chapter. 
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+*What I learned: This chapter challanged my thoughts, and made me realise that when I think through to past experiences, the products with the best overal user experience have been the ones which have been my favourites. The first paragraph related to me very much, as I love working on cars, admiring cars, and driving cars. The author used visualisation and placed me into the head of the engineer. Now that I think about which cars have been the most enjoyable for me, it's the little things inside, like the feeling of the seat wrapping around you, where all the buttons and dials are and how they look and feel when you touch them. The steering wheel and gear stick can have different finishes. Leather steering wheels and carbon fibre gear sticks feel the best for me in terms of user experience. As a designer I have now learnt that the experience I create for the user of the media or product matters very much in how they experience it. When I learnt about affordances, I think that through our past experiences, we have learnt the shapes and functions of many things, and know from experience what types of things can be interacted with. We often see hinges, buttons, things we can squeeze, push and pull objects, ect. I think when we notice objects with these properties we know to interact with them. Signifiers were another new concept to me. I learnt that people look for clues to see how things work. Signifiers help people know where to look in order to use the function. They can be arrows, dots or different clues so people know which interactions to use with the object. 
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
+
+*What I would like to know more about: I would like to know more about how different materials, colours and sounds affect the experience as a user. If I want to design products for a business in the future, these are important things to me.*
 
 *How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
 
