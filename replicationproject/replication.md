@@ -62,23 +62,23 @@ This project is related to mine as they were inanimate objects which when touche
 *What I learned: This chapter challanged my thoughts, and made me realise that when I think through to past experiences, the products with the best overal user experience have been the ones which have been my favourites. The first paragraph related to me very much, as I love working on cars, admiring cars, and driving cars. The author used visualisation and placed me into the head of the engineer. Now that I think about which cars have been the most enjoyable for me, it's the little things inside, like the feeling of the seat wrapping around you, where all the buttons and dials are and how they look and feel when you touch them. The steering wheel and gear stick can have different finishes. Leather steering wheels and carbon fibre gear sticks feel the best for me in terms of user experience. As a designer I have now learnt that the experience I create for the user of the media or product matters very much in how they experience it. When I learnt about affordances, I think that through our past experiences, we have learnt the shapes and functions of many things, and know from experience what types of things can be interacted with. We often see hinges, buttons, things we can squeeze, push and pull objects, ect. I think when we notice objects with these properties we know to interact with them. Signifiers were another new concept to me. I learnt that people look for clues to see how things work. Signifiers help people know where to look in order to use the function. They can be arrows, dots or different clues so people know which interactions to use with the object. 
 
 
-*What I would like to know more about: I would like to know more about how different materials, colours and sounds affect the experience as a user. If I want to design products for a business in the future, these are important things to me.*
+*What I would like to know more about: I would like to know more about how different materials, colours and sounds affect the experience as a user. If I want to design products for a business in the future, these things will be important things to me.*
 
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+*How this relates to the project I am working on: My product could be improved with the design, hiding all the wires and making it look more clean. The fruit could also be more perfect, less imperfections and less brownness (overriping) of the fruit. The buzzer could also be upgraded for a speaker or something to produce better audio quality.*
 
 ### Reading: Chapter 1 of Dan Saffer, Microinteractions: Designing with Details, Chapter 1 ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+*What I thought before: My opinions chaged similiarly to reading the last reading. I previously thought that the small things didn't really matter and it was the overall outcome of the product that was the main purpose and goal.*
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+*What I learned: I learnt that the small little microinteractions with the product can create a large effect in the overall experience.I learnt that microinteractions are small little toggles or options the user can do to make the experience perfect for them. This can include hiding things, changing colours, text size and more. Reading this made me realise all the little microinteractions I have with the things I use all the time. Right now, as I am typing this, I have my page larger so I can see the small font of this webpage. I have the screen micro adjusted so that it is better for my eyes. I have the bookmarks bar hidden so that I am not distracted by website icons. It amazes me just how many small microinteractions I do everyday without realising.*
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
+*What I would like to know more about: I would love to learn what the most important microinteractions are in terms of experience. I want to create an app that teaches people all about Parkour. I want to have categories for trick tutorials, sleep, nutrition, mindset and more. I want to learn which features that the user will care about the most, and which microinteraction buttons or features I should add.*
 
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+*How this relates to the project I am working on: The ideas of this do not directly correrlate with the ideas of my project as it is only a prototype model and is not a product ready to be manufactured. To get to that stage it would be a lot of work, 3D printing different parts and having different people help out weld peices, paint pieces, ect. to overall crease a masterpiece.*
 
 ### Reading: Scott Sullivan, Prototyping Interactive Objects ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+*What I thought before: Before this reading, because I had made a clothing company I knew about all the design, prototype and testing process the occurs. This infromation from this reading stated that designers test out the products in public and gage peoples natural reactions to see what they think about it. I knew that designers often done this as it is a useful way of testing the prodct.*
 
 *What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
 
