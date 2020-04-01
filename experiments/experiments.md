@@ -2,9 +2,9 @@
 
 ### Say "Hello" to the BBC micro:bit ###
 
-![Image](experiment1.JPG)
+![Image](IMG_5044.JPG)
 
-(Code for experiment one)
+(Experiment 1, Smiley Face when pressing button A)
 
 #### Reflection ####
 
@@ -18,9 +18,9 @@ This experiment could be the basis of a real world application such as a billboa
 
 
 
-![Image](experiment2.JPG)
+![Image](IMG_5047.JPG)
 
-(Code for experiment two)
+(Experiment 2, Light Sensor displaying moon icon)
 #### Reflection ####
 
 In this experiment, something new to me was phototransistors. I learnt that this is a technical part which reacts to the changing light. The more light that is exposed to the phototransisitors the brighter it will be, the less light that is exposed, the less bright it will be. 
@@ -29,9 +29,9 @@ This experiment could be the basis of a real world application such as your phon
 
 ### Dimming an LED using a potentiometer ###
 
-![Image](experiment3.JPG)
+![Image](IMG_5048.JPG)
 
-(Code for experiment three)
+(Experiment 3, Dimming of the LED)
 #### Reflection ####
 
 In this experiment, I learnt what a potentiometer was. This experiment of dimming an led using a potentiometer is controlled in a two separate block chains. One of the block chains determines if the switch is turned on or off and the other one turns the LED on. When the voltage is higher from the potentiometer, the LED shines brighter.
@@ -41,9 +41,9 @@ This experiment could be the basis of a real world application such as car headl
 ### Using a transistor to drive a motor ###
 
 
-![Image](experiment4.JPG)
+![Image](IMG_5049.JPG)
 
-(Code for experiment four)
+(Experiment 4, fan cycle)
 #### Reflection ####
 
 In this experiment, I learnt that you can use certain components, such as transistors to allow a higher output of power 
@@ -53,9 +53,9 @@ This experiment could be the basis of a real world application such a such as a 
 
 
 
-![Image](experiment5.JPG)
+![Image](IMG_5049.JPG)
 
-(Code for experiment five)
+(Experiment 5, Same as 4, except fan speed is based on the accelermeter)
 #### Reflection ####
 
 In this experiment, something new to me was that motors could change their speed, depending on how fast the microbit was moving. I thought it was interesting how the little bit of equipment from the microbit has so much potential to do different things.
