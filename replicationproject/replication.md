@@ -95,7 +95,7 @@ This project is related to mine as they were inanimate objects which when touche
 
 ## Process documentation
 
-![Image](missingimage.png)
+![Image](IMG_5075.JPG)
 
 At first I chose to do the timing gate project. I had the code written and I was in the process of making it all. Due to the lack of resources I had available, I had to change my project to the fruit keyboard. 
 
