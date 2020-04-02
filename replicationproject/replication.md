@@ -114,33 +114,32 @@ The main problem I had was that I only had 3 crocadile clips, when in the steps 
 
 These are some images of my project
 
-![Image](missingimage.png)
-![Image](missingimage.png)
-![Image](missingimage.png)
+![Image](IMG_5068.JPG)
+![Image](IMG_5074.JPG)
+![Image](IMG_5069.JPG)
 
-*Include screenshots of the code you have used.*
+These are some different photo angles of the project. You can see the different wiring I use. When you touch the fruit, you use conductivity which connects the electrical flow to the circut. 
 
 ## Project outcome ##
 
 *Complete the following information.*
 
-### Project title ###
+### Musical Fruit ###
 
 ### Project description ###
 
-*In a few sentences, describe what the project is and does, who it is for, and a typical use case.*
+*This project contains a circut that when you touch the fruit it creates a musical sound. I have designed this by connecting crocadile clips and wires to the fruit so that when your hand touches it, with your other hand on the ground, it connects the circut together and makes the sound once.*
+
 
 ### Showcase image ###
 
-*Try to capture the image as if it were in a portfolio, sales material, or project proposal. The project isn't likely to be something that finished, but practice making images that capture the project in that style.*
-
-![Image](missingimage.png)
+![Image](IMG_5068.JPG)
 
 ### Additional view ###
 
-*Provide some other image that gives a viewer a different perspective on the project such as more about how it functions, the project in use, or something else.*
+As you can see here, I used a different type of wire to connect the banana to the circuit. I had to place this wire very carefully for it to work. This is a weakness of my project and would need to be improved to make it more robust on future models. 
 
-![Image](missingimage.png)
+![Image](IMG_5070.JPG)
 
 ### Reflection ###
 
