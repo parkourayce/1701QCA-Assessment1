@@ -104,7 +104,7 @@ I do not have any paper in my apartment, so instead of making a sketch, I just d
 I thought of making the project out of all nice materials and using more fruits. This did not end up happening, due to lots of the arts and craft stores and shops been shut due to the coronavirus, and expenses. I initially tried to connect the fruit to the breadboard, however no matter what I did, I could not get it to work. I then did more research and used this website to base my project off of. (https://makecode.microbit.org/projects/banana-keyboard) When I was following the steps, I found out that my inventors kit didn't contain any crocadile clips. This was a bit of a pain so I had to drive to Ben's house because he said he had some I could borrow. 
 
 This is the code I used for my project.
-![Image](code_for_assignment.JPG)
+![Image](code for assignment.JPG)
 
 When you touch the fruit, with your hand on the ground it closes the circut and plays the sounds that I set in the code. 
 
