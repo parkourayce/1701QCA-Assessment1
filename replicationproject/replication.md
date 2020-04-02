@@ -95,12 +95,27 @@ This project is related to mine as they were inanimate objects which when touche
 
 ## Process documentation
 
-*In this section, include text and images that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.*
+![Image](missingimage.png)
 
-*This should have quite a lot of information!*
+At first I chose to do the timing gate project. I had the code written and I was in the process of making it all. Due to the lack of resources I had available, I had to change my project to the fruit keyboard. 
 
-*There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. Use the code below to include images, and copy it for each image, updating the information for each.*
+I do not have any paper in my apartment, so instead of making a sketch, I just decided I would play around with the code and the objects to see what I could get to work. 
 
+I thought of making the project out of all nice materials and using more fruits. This did not end up happening, due to lots of the arts and craft stores and shops been shut due to the coronavirus, and expenses. I initially tried to connect the fruit to the breadboard, however no matter what I did, I could not get it to work. I then did more research and used this website to base my project off of. (https://makecode.microbit.org/projects/banana-keyboard) When I was following the steps, I found out that my inventors kit didn't contain any crocadile clips. This was a bit of a pain so I had to drive to Ben's house because he said he had some I could borrow. 
+
+This is the code I used for my project.
+![Image](missingimage.png)
+
+When you touch the fruit, with your hand on the ground it closes the circut and plays the sounds that I set in the code. 
+
+I chose to use these materials and fruit as it was the only materials I had access to. 
+
+The main problem I had was that I only had 3 crocadile clips, when in the steps that I had to follow I was meant to have 4. This was a challange to me. I decided to use a peice of wire to connect to the crocadile clip. At first I could not get this to work. I was confused to why it wasn't working. I played around with it some more and finally got it to work. It was really fiddily and it had to be in the perfect position for it to work. 
+
+These are some images of my project
+
+![Image](missingimage.png)
+![Image](missingimage.png)
 ![Image](missingimage.png)
 
 *Include screenshots of the code you have used.*
